@@ -1,0 +1,6 @@
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail Sender\Mail Sender\bin\Debug\Mail Sender.exe.config
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail Sender\Mail Sender\bin\Debug\Mail Sender.exe
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail Sender\Mail Sender\bin\Debug\Mail Sender.pdb
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail Sender\Mail Sender\obj\Debug\Mail Sender.csprojResolveAssemblyReference.cache
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail Sender\Mail Sender\obj\Debug\Mail Sender.exe
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail Sender\Mail Sender\obj\Debug\Mail Sender.pdb
