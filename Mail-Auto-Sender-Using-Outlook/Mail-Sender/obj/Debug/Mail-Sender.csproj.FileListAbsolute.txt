@@ -1,0 +1,7 @@
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail-Auto-Sender-Using-Outlook\Mail-Sender\bin\Debug\Mail-Sender.exe.config
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail-Auto-Sender-Using-Outlook\Mail-Sender\obj\Debug\Mail-Sender.csproj.ResolveComReference.cache
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail-Auto-Sender-Using-Outlook\Mail-Sender\bin\Debug\Mail-Sender.exe
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail-Auto-Sender-Using-Outlook\Mail-Sender\bin\Debug\Mail-Sender.pdb
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail-Auto-Sender-Using-Outlook\Mail-Sender\obj\Debug\Mail-Sender.csprojResolveAssemblyReference.cache
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail-Auto-Sender-Using-Outlook\Mail-Sender\obj\Debug\Mail-Sender.exe
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail-Auto-Sender-Using-Outlook\Mail-Sender\obj\Debug\Mail-Sender.pdb

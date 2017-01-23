@@ -1,0 +1,7 @@
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail Sender\Mail Sender\bin\Release\Mail Sender.exe.config
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail Sender\Mail Sender\bin\Release\Mail Sender.exe
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail Sender\Mail Sender\bin\Release\Mail Sender.pdb
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail Sender\Mail Sender\obj\Release\Mail Sender.csprojResolveAssemblyReference.cache
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail Sender\Mail Sender\obj\Release\Mail Sender.exe
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail Sender\Mail Sender\obj\Release\Mail Sender.pdb
+C:\Users\vuong\Desktop\CodingPractice\DKSH\Mail Sender\Mail Sender\obj\Release\Mail Sender.csproj.ResolveComReference.cache
